@@ -1,0 +1,127 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to Sr. Timothy Touchstone at John the brewers lodging, at the sign of the Naked Truth, at Tyburn</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25569</idno>
+            <idno type="STC">Wing A3381</idno>
+            <idno type="STC">ESTC R3004</idno>
+            <idno type="EEBO-CITATION">99834087</idno>
+            <idno type="PROQUEST">99834087</idno>
+            <idno type="VID">38571</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25569)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38571)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2204:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to Sr. Timothy Touchstone at John the brewers lodging, at the sign of the Naked Truth, at Tyburn</title>
+               </titleStmt>
+               <extent>1 sheet (2-3 p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: Timothy Touchstone's reply to Sir Anonymus, at Mr. Christian's lodgings, at the sign of the naked devil, between Hamden and Danby-Houses.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Touchstone, Timothy. --  Timothy Touchstone's reply to Sir Anonymus, at Mr. Christian's lodgings, at the sign of the naked devil, between Hamden and Danby-Houses --  Controversial literature --  Early works to 1800.</term>
+               <term>Church and state --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1660-1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:38571:1" rendition="simple:additions"/>
+            <head>An ANSWER To S<hi rend="sup">r.</hi> Timothy Touchſtone At <hi>John</hi> the Brewers Lodging, At the Sign OF THE Naked Truth, AT TYBURN.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Oneſt <hi>Tim,</hi> To tell you in plain Truth, I am in Love with your Stile, for that it takes much in this Age, a<g ref="char:EOLhyphen"/>mongſt the Commonalty, as in <hi>Bartholomew</hi>-Fair, the Fool is the wiſeſt Man in the Play, the very ſhew of him is a Jeſt; and any thing that's ſerious put under a Fools Coat muſt take well; for to write damn'd ſerious, as Mr. <hi>Presbiter,</hi> or Mr. Papiſt. In this Age Sence is flung away, but your way I muſt applaud, for that Buffoon faſhion of your Diſcourſe, certainly is the beſt way of abuſing perſons in the World, in any ſort of Notions that are to be Inſinuated.</p>
+            <p>For look you (ſaid I Mr. <hi>Tim.</hi>) Can any perſon be at <hi>Stampford</hi> in <hi>lincoln</hi> ſhere at 2 a Clock in the Afternoon, and take water with Sir <hi>Edmond Bury Godfry</hi> at <hi>White-hall</hi> Stairs at the ſame time? I ſay he may, and be as viſible as <hi>Jo.</hi> the <hi>Brewer,</hi> at the Sign of the naked Divel: (for ſay I) to have 25000 <hi>l. per Annum,</hi> to mannage that Eſtate well, and to mannage the Government, is too much for one Man that hath other matters to conſider, as a Regiment of Players, Pimps, Whores, Fluters, Scriveners, Chymiſts, Presbiterians, Papiſts, Phonaticks, and an unconſtant Temper. But this (ſay I) may be man<g ref="char:EOLhyphen"/>naged with Diſcretion; and how, quoth <hi>Timothy?</hi> I'le tell you, When I am at Court, how eaſie a matter is it for one to follow St. <hi>Pauls</hi> Rule, to be all things to all men, to make fair promiſes to the buſineſs in hand, and afterwards to know nothing of it; then to place it on the negligence of my Servant not to mind me of it; and to call him Rogue and Raſcal for his negligence. This is commenda<g ref="char:EOLhyphen"/>ble, this is ſatisfaction without doubt, to any reaſonable perſon, and does well enough for any publick matters.</p>
+            <p>But hang it, I hate to be a Courtier, to Hauk and Hunt in the Country: To kiſs my wifes waiting Gentlewoman, to ingratiate my ſelf with the Citiſons wives in Town, is a better Life behalf;
+<pb n="3" facs="tcp:38571:2"/>and a Man does it with more popularity, for (ſay I) It's more com<g ref="char:EOLhyphen"/>mendable in the City to go to Church with ones own Wife, and to have his Servant follow him, with a large Emboſſed Bible, and to be ſerious, and know nothing of the matter at Church. It muſt needs pleaſe God, and create popularity, and graft a flouriſhing Presbiteri<g ref="char:EOLhyphen"/>an Head upon the Crabtree Stock of Popery. But let the <hi>Church</hi> of <hi>England</hi> be neglected, becauſe it's not inclineable to mutation, as alſo thoſe perſons that are or ſhall pretend to be true to the King and Church, but I had almoſt forgot <hi>Tim,</hi> that thoſe perſons that are true to the King and Government, muſt be run down with noiſe and nonſence, And why? Becauſe they adviſe the king not to part with any point that belongs to him of right, and that for the peoples ſake and ſafety, and for the King to pretend to com<g ref="char:EOLhyphen"/>mand his own Servants to obey him, and juſtify him when done, it's for certain Treaſon, but if it be not ſo, we'l ſet ſuch a Countenance upon it, that none but a Papiſt durſt contradict it.</p>
+            <p>Now <hi>Tim,</hi> I'le tell you how I mannage my private Affairs; in plain truth, I hate any man of buſineſs, except it be ſuch as brings me mony (for I abhor durty Acres, the Clamour of Tenants or any thing that pretends thereunto.</p>
+            <p>I had once ſeveral perſons of Honour and Quality for my Truſtees, that keep my droping Eſtate together, but they went ſuch formal ways to work, as I abhor'd them, being not perſons of diſpatch, taking the trouble of looking over Bills, caſting them up looking over Parchments drawn by impertinent Lawyers, filled with nonſenſical ſtuff, Proviſoes of Redemption and ſuch like fopperies. At which time I had a Fel<g ref="char:EOLhyphen"/>low, tho <hi>Tim</hi> that I implied in my buſineſs, that you mention, that effectually im<g ref="char:EOLhyphen"/>proved my Eſtate 1900 <hi>l.</hi> per Annum, and thoſe Rents which were ineffectual, he made them effectual; ſo that my Eſtate was in ſome ſort of plight. But this formal way of doing Buſineſs, was trouble ſome; I therefore turned him out of my Service. (but to ſay truth, he was willing to be rid of me) for ſuch a Maſter and ſuch a Servant and ſuch Truſtees, you may imagine, could not well agree. But how do you think <hi>Tim</hi> I rewarded him. I being a man much in Credit (as any Alderman in the City) got acquainted with the famous Scriveners, and alſo with a cunning Rump Solicitor, who I knew to be men of buſineſs, and Rogues that had the command of mony, for when all is done thoſe ſort of fellows are the beſt being men of diſpatch and if they do lye and cheat, they do it without troubling me and its no matter if I pay in <hi>pro</hi> and <hi>con</hi> 10 and 12 <hi>per cent.</hi> ready mony is the life of all things, and if by their Deſigns they beat down the value of my Lands and Wood in Order to their or others pur<g ref="char:EOLhyphen"/>chaſe, for I have found a great many old cunning Raſcals, that will take pains to get 3 or 4000 <hi>l.</hi> by a Purchaſe: It's a Credit to be in a Srivenor and Bankers Books. But the fellow that ſerved me, I think I ſhall be even with him, for I have imployed the Scrivenor which is a man of Reputation, and poſſibly may be a Parliament Man, and my Rump Solicitor, now my Truſtees, to teaſe that fellow at Law, upon pretence of cheating me, and that pretence cloak their deſigns, but they can make nothing of the matter. But now I think one, the Cheat will be the other way, for I being careleſs, did not much mind it, and I have this comfort, that none will conſpire my death for my Eſtate, but there has been abundance of dirt flung and I am ſure ſome will ſtick, and I ſhall bear the Charactor, that I am a perſon that minded not things of this world and ſo not fit for it. As for my Executors I ſhall give them little trouble, as for my Heirs I have none. Be now ſay I a good Plot may repair all ſorts of negligence.</p>
+            <p>Now <hi>Tim,</hi> I expect to hear from you, but I requeſt that you will leave off your Fools or Knaves Coat, and diſguiſe not your ſelf under a Jeſuittical or Presbiterian way of Lying. Be like the Church of <hi>England</hi> whoſe Doctrines are plain and intel<g ref="char:EOLhyphen"/>able.</p>
+            <closer>Praiſe God, and honour the King.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
